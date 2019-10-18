@@ -1,0 +1,5 @@
+newFile = open("newFile.txt","r")
+#newFile.close()
+#print(newFile.mode)
+newFile.seek(1)
+print(newFile.tell())
