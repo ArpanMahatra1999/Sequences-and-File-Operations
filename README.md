@@ -1,5 +1,4 @@
 # Sequences-and-File-Operations
-
 Python codes for basic sequence and file operations.
 
 Tools used:
